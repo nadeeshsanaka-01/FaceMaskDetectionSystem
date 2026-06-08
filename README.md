@@ -1,4 +1,4 @@
-# FaceMaskDetectionSystem
+# Face Mask Detection System
 This project is a computer vision application designed to detect whether a person is wearing a
 mask. If a person is detected without a mask, their data is captured and stored for further
 analysis or monitoring. The application is highly adaptable and can retrieve input from various
